@@ -1,0 +1,26 @@
+<div class="block-container css-z5fcl4 e1g8pov64" style="position: relative;"><div style="overflow: visible; width: 0px; display: flex; flex-direction: column; flex: 1 1 0%;"><div width="732" data-testid="stVerticalBlock" class="css-142z2ju esravye0"><div data-stale="false" width="732" class="element-container css-1xgvydy esravye2"><div class="stMarkdown" style="width: 732px;"><div data-testid="stMarkdownContainer" class="css-uvn0xz eqr7zpz4"><style>/* CSS Snippet from W3schools: https://www.w3schools.com/howto/howto_css_contact_form.asp */
+
+.streamlit-container {
+    max-width: 200%;
+    margin: 0;
+    padding: 0;
+}  
+
+.css-1v5mywt {
+    max-width: 200%;
+    margin: 0;
+    padding: 0;
+}
+
+.intro {
+    background-color: #ffffff;
+    padding-right: 40px;
+}
+
+
+  /* Hide Streamlit Branding */
+  #MainMenu {visibility: hidden;}
+  footer {visibility: hidden;}
+  header {visibility: hidden;}
+
+</style></div></div></div><div style="overflow: visible; width: 0px; display: flex; flex-direction: column; flex: 1 1 0%;"><div width="732" data-testid="stVerticalBlock" class="css-142z2ju esravye0"><div data-testid="stHorizontalBlock" class="css-ocqkz7 esravye3"><div data-testid="column" class="css-fplge5 esravye1" style="position: relative;"><div style="overflow: visible; width: 0px; display: flex; flex-direction: column; flex: 1 1 0%;"><div width="431" data-testid="stVerticalBlock" class="css-14jrhe8 esravye0"><div data-stale="false" width="431" class="element-container css-6q1caf esravye2"><div class="stMarkdown" style="width: 431px;"><div data-testid="stMarkdownContainer" class="css-uvn0xz eqr7zpz4" style="width: 431px;"><div class="css-1629p8f eqr7zpz1"><h1 id="nachiket-sawwalakhe"><div class="css-zt5igj eqr7zpz3"><a href="#nachiket-sawwalakhe" class="css-1xy3pbc eqr7zpz2"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><span class="css-10trblm eqr7zpz0">Nachiket Sawwalakhe</span></div></h1></div></div></div></div><div data-stale="false" width="431" class="element-container css-6q1caf esravye2"><div class="stMarkdown" style="width: 431px;"><div data-testid="stMarkdownContainer" class="css-uvn0xz eqr7zpz4"><div class="intro"> <p> My name is Nachiket Sawwalakhe, and I am a student at the Visvesvaraya National Institute of Technology <a href="https://vnit.ac.in/" target="_blank" rel="noopener noreferrer">(VNIT)</a> in Nagpur studying Electronics and Communication Engineering. As a dedicated and motivated person, I am always searching for exciting opportunities to enhance my abilities, broaden my skill set, and find new ways to grow. Each of my projects, both solo and collaborative, has offered this opportunity for development and has helped me establish myself in this competitive sector. </p></div></div></div></div></div></div><div class="resize-triggers"><div class="expand-trigger"><div style="width: 432px; height: 313px;"></div></div><div class="contract-trigger"></div></div></div><div data-testid="column" class="css-1yycg8b esravye1" style="position: relative;"><div style="overflow: visible; width: 0px; display: flex; flex-direction: column; flex: 1 1 0%;"><div width="285" data-testid="stVerticalBlock" class="css-1py2o2w esravye0"><div data-stale="false" width="285" class="element-container css-1kxah3p esravye2"><div class="stMarkdown" style="width: 285px;"><div data-testid="stMarkdownContainer" class="css-uvn0xz eqr7zpz4"><div class="profile"> <img src="img/self.jpeg" alt="Nachiket Sawwalakhe" width="100%"> </div></div></div></div></div></div><div class="resize-triggers"><div class="expand-trigger"><div style="width: 286px; height: 313px;"></div></div><div class="contract-trigger"></div></div></div></div></div></div><div class="resize-triggers"><div class="expand-trigger"><div style="width: 733px; height: 329px;"></div></div><div class="contract-trigger"></div></div></div></div><div class="resize-triggers"><div class="expand-trigger"><div style="width: 893px; height: 585px;"></div></div><div class="contract-trigger"></div></div></div>

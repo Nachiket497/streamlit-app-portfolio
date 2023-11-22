@@ -11,7 +11,7 @@ from streamlit_js_eval import streamlit_js_eval
 st.set_page_config(page_title="Nachiket-Portfolio", page_icon="img/N.png", layout="wide", initial_sidebar_state="collapsed" )
 local_css("style/style.css")
 
-screen_width = streamlit_js_eval(js_expressions='window.innerWidth', key = 'SCR')
+screen_width = streamlit_js_eval(js_expressions='window.innerWidth',want_output = True, key = 'SCR')
 
 
 with st.container():

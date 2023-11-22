@@ -27,6 +27,11 @@
     box-shadow: 4px 4px 8px 0px rgba(0, 0, 0, 0.2), 6px 6px 20px 0px rgba(0, 0, 0, 0.19);
 }
 
+
+[data-testid=stSidebar] {
+    background-color: #b9bec7;
+}
+
 .element-container {
     padding: 0% 0% 0% 0%;
 }

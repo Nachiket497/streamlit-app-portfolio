@@ -3,9 +3,9 @@ from support_fun import local_css
 from support_fun import img_to_bytes
 from support_fun import glich
 from support_fun import project_dict
-    
+import math
 
-num_columns = 4
+
 
 def make_card(img_path, title, code, tab, col):
     with tab :
@@ -25,8 +25,10 @@ def make_card(img_path, title, code, tab, col):
 
             
       
-def make_project():
+def make_project(screen_width):
 
+    num_columns = math.floor(screen_width/270)
+    print(num_columns, screen_width)
     # create 4 tabs
     tabs_name = ['All', 'Robotics', 'Electronics/Control Systems', 'Software Development']
     st.markdown("<h1 class='f60' >Projects</h1>", unsafe_allow_html=True)

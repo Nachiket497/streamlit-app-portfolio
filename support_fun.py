@@ -38,9 +38,10 @@ project_dict = {
         "code" : "https://github.com/Nachiket497/Enquiry-App",
         "categaory" : "Software Development"
     },
+
     "VNIT Telephone Directory" : {
         "img" : "img/VTD.jpeg",
-        "desciption" : "<li>Developed an android application to find extention number of the faculty and staff of VNIT.</li> <li>Implemented relaltime connection between excel sheet, firebase database and android application.</li><li>Designed various feactures like optimise search by name, quick call etc.</li>",
+        "description" : "<li>Developed an android application to find extention number of the faculty and staff of VNIT.</li> <li>Implemented relaltime connection between excel sheet, firebase database and android application.</li><li>Designed various feactures like optimise search by name, quick call etc.</li>",
         "duration" : "Dec 2022",
         "code" : "https://github.com/IDS-VNIT/vnit_telephone_app",
         "categaory" : "Software Development"
@@ -55,18 +56,18 @@ project_dict = {
     },
  
     "Autonomus Driving Platform" : {
-        "img" : "img/Nachiket.jpg",
+        "img" : "img/adp.gif",
         "description" : "<li>Designed a platform for autonomous driving using ROS and Gazebo.</li><li>Implemented the colour detection and following using OpenCV.</li><li>Developed a PID controller for steering and speed control of the vehicle.</li>",
         "duration" : "Sep 2022",
         "code" : "",
         "categaory" : "Robotics"
-
     },
+
     "Quadruped" : {
-        "img" : "img/Nachiket.jpg",
+        "img" : "img/quadurped.gif",
         "description" : "<li>Designed a quadruped robot with 12 degrees of freedom </li> <li>Implemented the trot, crawl-walking gait using semi-elliptical trajectory and inverser kinematics for a single quadruped leg on hardware using ROS.</li>",
         "duration" : "July 2022 - Aug 2022",
-        "code" : "",
+        "code" : "https://github.com/IvLabs/Quadruped_Robotics",
         "categaory" : "Robotics"
     }, 
 
@@ -77,6 +78,7 @@ project_dict = {
         "code" : "",
         "categaory" : "Software Development"
     },
+
     "Quadrupilot" : {
         "img" : "img/vecros.jpg",
         "description" : "<li>Added the remote control and developed a successful communication between the Pixhawk and actuators via Mission Planner using the CAN-Bus protocol.</li>  <li>Implemented the trot, crawl-walking gait using semi-elliptical trajectory and inverser kinematics for a single quadruped leg on hardware.</li> ",
@@ -84,6 +86,7 @@ project_dict = {
         "code" : "",
         "categaory" : "Robotics"
     },
+
     "Trajectory generation for bipedal walking" : {
         "img" : "img/Multistep_3D.gif",
         "description" : "T<li>Implemented a 3D linear inverted pendulum model for bipedal walking and generated trajectories for the centre of mass and swing foot. </li> <li>Developed a time sequence of states given a constant COM height trajectory for locomotion.</li>",
@@ -91,6 +94,7 @@ project_dict = {
         "code" : "https://github.com/Nachiket497/biped_walking",
         "categaory" : "Robotics"
     },
+
     "Trajectory Optimization of Cart Pole" : {
         "img" : "img/optimize1.gif",
         "description" : "<li>Generated an optimal swing-up trajectory for a cart-pole system with minimum energy objective and boundary constraints in state and time.</li> <li>Obtained the solution of optimization problem using CasADi Toolbox and simulated the generated trajectories using Matplotlib.</li>",
@@ -98,6 +102,7 @@ project_dict = {
         "code" : "https://github.com/Nachiket497/trajectory_optimization",
         "categaory" : "Robotics"
     },
+
     "Reconfigurable Robotics" : {
         "img" : "img/q2h1.gif",
         "description" : " <li>Designed a reconfigurable robotic system that transforms between serpentine, wheeled-quadrupedal, and humanoidal locomotion modes without any rearrangement.</li> <li>Developed transition gaits for reconfiguration between serpentine, wheeled-quadruped and biped.</li>  <li>Implemented geometric locomotion gaits of serpentine for linear progression, lateral undulation, rolling and rotation and walking gaits of wheeled quadruped for crawling and trotting. </li>",
@@ -105,6 +110,7 @@ project_dict = {
         "code" : "https://drive.google.com/file/d/1WklsGTju2-ZOsPBwW0gTP8u28iZbrFs0/view",
         "categaory" : "Robotics"
     },
+
     "PID Controller using Op-Amp" : {
         "img" : "img/Circuit_diagram.jpeg",
         "description" : "<li>Designed a PID control system using Op-Amp which regulate the voltage drop across the system.</li> <li>Implemented the controller in multisim12 and performed the transient analysis for the different set-points.</li>",
@@ -112,6 +118,7 @@ project_dict = {
         "code" : "https://github.com/Nachiket497/PID_Controller_using_OP-Amp",
         "categaory" : "Electronics/Control Systems"
     },
+
     "Manipulation of Robotic Arm" : {
         "img" : "img/pick_place1.gif",
         "description" : " <li>Implemented the forward dynamics, forward kinematics, inverse kinematics and position control of serial link manipulators.</li><li>Accomplished an end effector trajectory control for a ‘straight line follower' task using inverse kinematics based on Newton-Raphson method.</li> <li> Developed an algorithm for 'Pick & Place' task for UR5 manipulator using PyBullet. </li>",
@@ -119,6 +126,7 @@ project_dict = {
         "code" : "https://github.com/IvLabs/manipulation",
         "categaory" : "Robotics"
     },
+
     "Music Player" : {
         "img" : "img/mus.jpg",
         "description" : "<li>Designed a simple music player using android studio with basic features <ul> <li>Full list of all songs in the device.</li> <li>Separate player for playing the songs with cover photo and other details.</li> <li>Interactive notification widgets and works in the background. </li> </ul> </li>",
@@ -126,6 +134,7 @@ project_dict = {
         "code" : "https://github.com/Nachiket497/Music_Player",
         "categaory" : "Software Development"
     },
+
     "Air Quality Checker" : {
         "img" : "img/new.jpg",
         "description" : "<li>Established a circuit to read the data from the sensor MQ-135 and display it on an android app. </li> <li>The connection is developed between an android app and Arduino via ThingSpeak using Wi-Fi Module  ESP8266-01</li> <li> The application is capable of monitoring air quality in real time. </li>",
@@ -149,7 +158,6 @@ project_dict = {
         "code" : "https://github.com/Nachiket497/FirebaseAPK",
         "categaory" : "Software Development"
     }
-
 }
 
 

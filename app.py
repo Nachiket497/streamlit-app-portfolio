@@ -13,6 +13,8 @@ local_css("style/style.css")
 
 screen_width = streamlit_js_eval(js_expressions='window.innerWidth',want_output = True, key = 'SCR')
 
+if screen_width is None:
+    screen_width = 1400
 
 with st.container():
     # code for nav bar

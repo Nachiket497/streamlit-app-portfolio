@@ -33,4 +33,4 @@ st.markdown("  <li>Designed a cruise controller for a planar mobile robot to ach
 st.markdown("")
 
 
-st.markdown("### Code: https://github.com/Nachiket497/CRUISE-CONTROLLER")
+st.markdown("<h3> Code: </h3> <p>https://github.com/Nachiket497/CRUISE-CONTROLLER</p>",unsafe_allow_html=True )

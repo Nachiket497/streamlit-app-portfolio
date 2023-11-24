@@ -33,4 +33,4 @@ st.markdown(" <li>Established a circuit to read the data from the sensor MQ-135 
 st.markdown("")
 
 
-st.markdown("### Code: https://github.com/Nachiket497/IOT_Base_Air_Qulity_checker")
+st.markdown("<h3> Code: </h3> <p>https://github.com/Nachiket497/IOT_Base_Air_Qulity_checker</p>",unsafe_allow_html=True )

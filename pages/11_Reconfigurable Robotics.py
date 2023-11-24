@@ -33,4 +33,4 @@ st.markdown("  <li>Designed a reconfigurable robotic system that transforms betw
 st.markdown("")
 
 
-st.markdown("### Code: https://drive.google.com/file/d/1WklsGTju2-ZOsPBwW0gTP8u28iZbrFs0/view")
+st.markdown("<h3> Code: </h3> <p>https://drive.google.com/file/d/1WklsGTju2-ZOsPBwW0gTP8u28iZbrFs0/view</p>",unsafe_allow_html=True )

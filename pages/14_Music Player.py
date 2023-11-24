@@ -33,4 +33,4 @@ st.markdown(" <li>Designed a simple music player using android studio with basic
 st.markdown("")
 
 
-st.markdown("### Code: https://github.com/Nachiket497/Music_Player")
+st.markdown("<h3> Code: </h3> <p>https://github.com/Nachiket497/Music_Player</p>",unsafe_allow_html=True )

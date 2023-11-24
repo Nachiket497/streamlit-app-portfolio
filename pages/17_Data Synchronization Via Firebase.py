@@ -33,4 +33,4 @@ st.markdown("  <li>Implemented synchronization of textual data between an androi
 st.markdown("")
 
 
-st.markdown("### Code: https://github.com/Nachiket497/FirebaseAPK")
+st.markdown("<h3> Code: </h3> <p>https://github.com/Nachiket497/FirebaseAPK</p>",unsafe_allow_html=True )

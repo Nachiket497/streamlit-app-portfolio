@@ -33,4 +33,4 @@ st.markdown(" <li>Designed a quadruped robot with 12 degrees of freedom </li> <l
 st.markdown("")
 
 
-st.markdown("### Code: https://github.com/IvLabs/Quadruped_Robotics")
+st.markdown("<h3> Code: </h3> <p>https://github.com/IvLabs/Quadruped_Robotics</p>",unsafe_allow_html=True )

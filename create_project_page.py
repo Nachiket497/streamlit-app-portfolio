@@ -41,7 +41,7 @@ for key, value in project_dict.items():
     ]
 
     if( value["code"] != ""):
-        page_content.append('st.markdown("### Code: {}")'.format(value["code"]))
+        page_content.append('st.markdown("<h3> Code: </h3> <p>{}</p>",unsafe_allow_html=True )'.format(value["code"]))
 
 
     with open("pages/" + str(i) + "_" + key + ".py", "w") as f:    

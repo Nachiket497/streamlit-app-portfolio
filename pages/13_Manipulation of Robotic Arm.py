@@ -33,4 +33,4 @@ st.markdown("  <li>Implemented the forward dynamics, forward kinematics, inverse
 st.markdown("")
 
 
-st.markdown("### Code: https://github.com/IvLabs/manipulation")
+st.markdown("<h3> Code: </h3> <p>https://github.com/IvLabs/manipulation</p>",unsafe_allow_html=True )

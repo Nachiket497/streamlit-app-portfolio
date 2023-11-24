@@ -33,4 +33,4 @@ st.markdown(" T<li>Implemented a 3D linear inverted pendulum model for bipedal w
 st.markdown("")
 
 
-st.markdown("### Code: https://github.com/Nachiket497/biped_walking")
+st.markdown("<h3> Code: </h3> <p>https://github.com/Nachiket497/biped_walking</p>",unsafe_allow_html=True )

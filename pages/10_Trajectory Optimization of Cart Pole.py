@@ -33,4 +33,4 @@ st.markdown(" <li>Generated an optimal swing-up trajectory for a cart-pole syste
 st.markdown("")
 
 
-st.markdown("### Code: https://github.com/Nachiket497/trajectory_optimization")
+st.markdown("<h3> Code: </h3> <p>https://github.com/Nachiket497/trajectory_optimization</p>",unsafe_allow_html=True )

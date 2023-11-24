@@ -11,10 +11,14 @@ from streamlit_js_eval import streamlit_js_eval
 st.set_page_config(page_title="Nachiket-Portfolio", page_icon="img/N.png", layout="wide", initial_sidebar_state="collapsed" )
 local_css("style/style.css")
 
-screen_width = streamlit_js_eval(js_expressions='window.innerWidth',want_output = True, key = 'SCR')
+st.markdown("""<script type="text/javascript">
+    window.onbeforeunload = function() {
+        return "Dude, are you sure you want to leave? Think of the kittens!";
+    }
+</script>""", unsafe_allow_html=True)
 
-if screen_width is None:
-    screen_width = 1100
+
+
 
 with st.container():
     # code for nav bar
@@ -31,6 +35,13 @@ with st.container():
 with st.container():
     make_exp()
     st.markdown("-----")
+
+screen_width = streamlit_js_eval(js_expressions='window.innerWidth',want_output = True, key = 'SCR')
+
+if screen_width is None:
+    screen_width = 1100
+    print("screen_width is None")
+
 
 with st.container():
     make_project(screen_width)

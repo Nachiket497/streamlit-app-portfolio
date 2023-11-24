@@ -44,7 +44,7 @@ def make_project(screen_width):
     for tab in tabs:
         cols.append(tab.columns(num_columns))
     
-    glich()
+    # glich()
     count = [0, 0, 0, 0]
     for title in project_dict.keys():
         # try :

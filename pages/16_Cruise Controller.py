@@ -1,10 +1,10 @@
 import streamlit as st
-from home import screen_width
+from app import screen_width
 from support_fun import local_css
 from support_fun import img_to_bytes
 
 
-st.set_page_config(page_title="Cruise Controller",  page_icon="img/N.png", initial_sidebar_state="collapsed")
+st.set_page_config(page_title="Cruise Controller",  page_icon="img/N.png")
 
 
 st.title("Cruise Controller")

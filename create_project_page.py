@@ -13,7 +13,7 @@ for key, value in project_dict.items():
         "from support_fun import local_css",
         "from support_fun import img_to_bytes",
         "\n",
-        'st.set_page_config(page_title="{}",  page_icon="img/N.png", initial_sidebar_state="collapsed")'.format(key),
+        'st.set_page_config(page_title="{}",  page_icon="img/N.png")'.format(key),
         "\n",
         'st.title("{}")'.format(key),
         "\n",

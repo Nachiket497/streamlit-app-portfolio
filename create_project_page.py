@@ -9,7 +9,7 @@ for key, value in project_dict.items():
     page_content = [
 
         "import streamlit as st",
-        "from app import screen_width",
+        "from home import screen_width",
         "from support_fun import local_css",
         "from support_fun import img_to_bytes",
         "\n",

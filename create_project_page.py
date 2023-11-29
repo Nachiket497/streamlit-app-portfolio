@@ -41,8 +41,13 @@ for key, value in project_dict.items():
     ]
 
     if( value["code"] != ""):
-        page_content.append('st.markdown("<h3> Code: </h3> <p>{}</p>",unsafe_allow_html=True )'.format(value["code"]))
-
+        links = value["code"].split(",")
+        page_content.append('st.markdown("<h3>Code :</h3>",unsafe_allow_html=True )')
+        for link in links:
+            if link.find("github") != -1:
+                page_content.append('st.markdown("<li><a href={}>Github</a></li>" ,unsafe_allow_html=True )'.format(link))
+            else :
+                page_content.append('st.markdown("<li><a href={}>IEEE Paper</a></li>",unsafe_allow_html=True )'.format(link))
 
     with open("pages/" + str(i) + "_" + key + ".py", "w") as f:    
         for line in page_content:

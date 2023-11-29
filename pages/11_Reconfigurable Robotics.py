@@ -33,4 +33,5 @@ st.markdown("  <li>Designed a reconfigurable robotic system that transforms betw
 st.markdown("")
 
 
-st.markdown("<h3> Code: </h3> <p>https://drive.google.com/file/d/1WklsGTju2-ZOsPBwW0gTP8u28iZbrFs0/view</p>",unsafe_allow_html=True )
+st.markdown("<h3>Code :</h3>",unsafe_allow_html=True )
+st.markdown("<li><a href=https://drive.google.com/file/d/1WklsGTju2-ZOsPBwW0gTP8u28iZbrFs0/view>IEEE Paper</a></li>",unsafe_allow_html=True )

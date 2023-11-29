@@ -33,4 +33,6 @@ st.markdown(" <li>Designed  ground robot with a rocker bogie mechanism to optimi
 st.markdown("")
 
 
-st.markdown("<h3> Code: </h3> <p>https://github.com/Nachiket497/AFB_code https://ieeexplore.ieee.org/document/10136100</p>",unsafe_allow_html=True )
+st.markdown("<h3>Code :</h3>",unsafe_allow_html=True )
+st.markdown("<li><a href=https://github.com/Nachiket497/AFB_code>Github</a></li>" ,unsafe_allow_html=True )
+st.markdown("<li><a href=https://ieeexplore.ieee.org/document/10136100>IEEE Paper</a></li>",unsafe_allow_html=True )

@@ -33,4 +33,5 @@ st.markdown(" <li>Developed an android application to find extention number of t
 st.markdown("")
 
 
-st.markdown("<h3> Code: </h3> <p>https://github.com/IDS-VNIT/vnit_telephone_app</p>",unsafe_allow_html=True )
+st.markdown("<h3>Code :</h3>",unsafe_allow_html=True )
+st.markdown("<li><a href=https://github.com/IDS-VNIT/vnit_telephone_app>Github</a></li>" ,unsafe_allow_html=True )

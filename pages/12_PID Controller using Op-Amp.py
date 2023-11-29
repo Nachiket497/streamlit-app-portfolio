@@ -33,4 +33,5 @@ st.markdown(" <li>Designed a PID control system using Op-Amp which regulate the 
 st.markdown("")
 
 
-st.markdown("<h3> Code: </h3> <p>https://github.com/Nachiket497/PID_Controller_using_OP-Amp</p>",unsafe_allow_html=True )
+st.markdown("<h3>Code :</h3>",unsafe_allow_html=True )
+st.markdown("<li><a href=https://github.com/Nachiket497/PID_Controller_using_OP-Amp>Github</a></li>" ,unsafe_allow_html=True )

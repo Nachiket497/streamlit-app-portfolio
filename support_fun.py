@@ -51,7 +51,7 @@ project_dict = {
         "img" : "img/image1.gif",
         "description" : "<li>Designed  ground robot with a rocker bogie mechanism to optimize fertilizer application, reducing waste by delivering nutrients directly to plant roots.</li><li>Developed small-scale farming, the compact and lightweight design ensures seamless navigation through tight spaces, offering an efficient and cost-effective solution for fertilization process.</li><li>Implemented a plantation layout following algorithum using OpenCV.</li> <li> Published research paper titled 'Design and Implementation of an Autonomous Plantation Layout Follower Fertilizer Bot for Advanced Farming' at the PCEMS Conference.  </li>",
         "duration" : "Aug 2022 - Dec 2022",
-        "code" : "https://github.com/Nachiket497/AFB_code https://ieeexplore.ieee.org/document/10136100",
+        "code" : "https://github.com/Nachiket497/AFB_code,https://ieeexplore.ieee.org/document/10136100",
         "categaory" : "Robotics"
     },
  

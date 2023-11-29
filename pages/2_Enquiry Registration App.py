@@ -33,4 +33,5 @@ st.markdown(" <li>Developed an android application for the enquiry registration 
 st.markdown("")
 
 
-st.markdown("<h3> Code: </h3> <p>https://github.com/Nachiket497/Enquiry-App</p>",unsafe_allow_html=True )
+st.markdown("<h3>Code :</h3>",unsafe_allow_html=True )
+st.markdown("<li><a href=https://github.com/Nachiket497/Enquiry-App>Github</a></li>" ,unsafe_allow_html=True )

@@ -16,7 +16,7 @@ def make_card(img_path, title, code, tab, col):
                     <img src='data:image/png;base64,{img_to_bytes(img_path)}' alt="Avatar" style="width: 80%; padding: 5% 5% 5% 5%;  border-radius: 5px;">
                     <h4 id="demo" ><b>{title}</b></h4>
                     <div style="padding: 0% 0% 4% 0%;">
-                    <button onclick="window.open('https://nachiket497.streamlit.app/{title.replace(" ","_")}', '_blank')">Know More</button>
+                    <button onclick="window.open('{title.replace(" ","_")}', '_blank')">Know More</button>
                      </div>
                 </div>
                  

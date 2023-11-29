@@ -20,9 +20,9 @@ st.markdown("""<script type="text/javascript">
 
 
 
-with st.container():
-    # code for nav bar
-    pass
+# with st.container():
+#     # code for nav bar
+#     pass
 
 with st.container():
     make_intro()

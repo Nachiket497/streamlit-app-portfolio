@@ -29,7 +29,7 @@ st.markdown("")
 st.markdown("### Description:")
 
 
-st.markdown(" <li>Designed a quadruped robot with 12 degrees of freedom </li> <li>Implemented the trot, crawl-walking gait using semi-elliptical trajectory and inverser kinematics for a single quadruped leg on hardware using ROS.</li>", unsafe_allow_html=True)
+st.markdown(" <li>Designed a 12-DOF quadruped robot utilizing Dynamixel actuators and Jetson.</li> <li>Implemented the trot, crawl-walking gait using semi-elliptical trajectory and inverser kinematics for a single quadruped leg on hardware using ROS.</li>", unsafe_allow_html=True)
 st.markdown("")
 
 

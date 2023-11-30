@@ -29,7 +29,7 @@ st.markdown("")
 st.markdown("### Description:")
 
 
-st.markdown(" <li>Developed an android application to find extention number of the faculty and staff of VNIT.</li> <li>Implemented relaltime connection between excel sheet, firebase database and android application.</li><li>Designed various feactures like optimise search by name, quick call etc.</li>", unsafe_allow_html=True)
+st.markdown(" <li>Developed a Android application for retrieving extension numbers of faculty and staff at VNIT.</li><li> Implemented features such as optimized search by name and quick call functionality for enhanced user accessibility.</li> <li>Implemented a seamless real-time connection between Excel sheets, Firebase database, and the Android application, ensuring up-to-date and synchronized information for a reliable and dynamic user experience.</li>", unsafe_allow_html=True)
 st.markdown("")
 
 

@@ -29,7 +29,7 @@ st.markdown("")
 st.markdown("### Description:")
 
 
-st.markdown(" <li>Performed verification of the 68B mode CXL Link layer and Arb Mux layer, ensuring protocol compliance and functionality.</li><li>Designed 256B mode CXL Arb Mux with a weightage round-robin module and L0p support</li><li>Currently working on verification of the LTSSM in the PHY layer of PCIe controller</li>", unsafe_allow_html=True)
+st.markdown(" <li>Performed verification of the 68B mode CXL Link layer and Arb Mux layer, ensuring protocol compliance and functionality.</li><li>Designed 256B mode CXL Arb Mux with a weightage round-robin module and L0p support.</li><li>Currently working on verification of the LTSSM in the PHY layer of PCIe controller.</li>", unsafe_allow_html=True)
 st.markdown("")
 
 

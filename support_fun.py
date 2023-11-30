@@ -25,7 +25,7 @@ project_dict = {
 
     "CXL-PCIe Controller Verification" : {
         "img" : "img/cxl.png",
-        "description" : "<li>Performed verification of the 68B mode CXL Link layer and Arb Mux layer, ensuring protocol compliance and functionality.</li><li>Designed 256B mode CXL Arb Mux with a weightage round-robin module and L0p support</li><li>Currently working on verification of the LTSSM in the PHY layer of PCIe controller</li>",
+        "description" : "<li>Performed verification of the 68B mode CXL Link layer and Arb Mux layer, ensuring protocol compliance and functionality.</li><li>Designed 256B mode CXL Arb Mux with a weightage round-robin module and L0p support.</li><li>Currently working on verification of the LTSSM in the PHY layer of PCIe controller.</li>",
         "duration" : "Feb 2023 - Present",
         "code" : "",
         "categaory" : "Electronics/Control Systems"
@@ -33,7 +33,7 @@ project_dict = {
 
     "Enquiry Registration App" : {
         "img" : "img/Enquiry.png",
-        "description" : "<li>Developed an android application for the enquiry registration of the customors.</li> <li>Implemented the application using the Firebase Realtime Database for storing the data.</li><li>ALso developed a client side application for the admin to view and manage the enquiries.</li>",
+        "description" : "<li>Developed an Android application for efficient customer enquiry registration, streamlining the process and enhancing user experience.</li> <li>Implemented backend using Firebase Realtime Database, ensuring secure and real-time storage of customer enquiry data.</li><li>Created a dedicated client-side application for administrators, providing a user-friendly interface to view and manage customer enquiries.</li>",
         "duration" : "May 2023",
         "code" : "https://github.com/Nachiket497/Enquiry-App",
         "categaory" : "Software Development"
@@ -41,7 +41,7 @@ project_dict = {
 
     "VNIT Telephone Directory" : {
         "img" : "img/VTD.jpeg",
-        "description" : "<li>Developed an android application to find extention number of the faculty and staff of VNIT.</li> <li>Implemented relaltime connection between excel sheet, firebase database and android application.</li><li>Designed various feactures like optimise search by name, quick call etc.</li>",
+        "description" : "<li>Developed a Android application for retrieving extension numbers of faculty and staff at VNIT.</li><li> Implemented features such as optimized search by name and quick call functionality for enhanced user accessibility.</li> <li>Implemented a seamless real-time connection between Excel sheets, Firebase database, and the Android application, ensuring up-to-date and synchronized information for a reliable and dynamic user experience.</li>",
         "duration" : "Dec 2022",
         "code" : "https://github.com/IDS-VNIT/vnit_telephone_app",
         "categaory" : "Software Development"
@@ -49,12 +49,12 @@ project_dict = {
 
     "Autonomous Fertiliser bot" : {
         "img" : "img/image1.gif",
-        "description" : "<li>Designed  ground robot with a rocker bogie mechanism to optimize fertilizer application, reducing waste by delivering nutrients directly to plant roots.</li><li>Developed small-scale farming, the compact and lightweight design ensures seamless navigation through tight spaces, offering an efficient and cost-effective solution for fertilization process.</li><li>Implemented a plantation layout following algorithum using OpenCV.</li> <li> Published research paper titled 'Design and Implementation of an Autonomous Plantation Layout Follower Fertilizer Bot for Advanced Farming' at the PCEMS Conference.  </li>",
+        "description" : "<li>Designed ground robot with a rocker bogie mechanism to optimize fertilizer application, reducing waste by delivering nutrients directly to plant roots.</li><li>Developed small-scale farming, the compact and lightweight design ensures seamless navigation through tight spaces, offering an efficient and cost-effective solution for fertilization process.</li><li>Implemented a plantation layout following algorithm using OpenCV to navigate in field without destroying crop.</li> <li> Published research paper titled 'Design and Implementation of an Autonomous Plantation Layout Follower Fertilizer Bot for Advanced Farming' at the PCEMS Conference.  </li>",
         "duration" : "Aug 2022 - Dec 2022",
         "code" : "https://github.com/Nachiket497/AFB_code,https://ieeexplore.ieee.org/document/10136100",
         "categaory" : "Robotics"
     },
- 
+
     "Autonomus Driving Platform" : {
         "img" : "img/adp.gif",
         "description" : "<li>Designed a platform for autonomous driving using ROS and Gazebo.</li><li>Implemented the colour detection and following using OpenCV.</li><li>Developed a PID controller for steering and speed control of the vehicle.</li>",
@@ -65,7 +65,7 @@ project_dict = {
 
     "Quadruped" : {
         "img" : "img/quadurped.gif",
-        "description" : "<li>Designed a quadruped robot with 12 degrees of freedom </li> <li>Implemented the trot, crawl-walking gait using semi-elliptical trajectory and inverser kinematics for a single quadruped leg on hardware using ROS.</li>",
+        "description" : "<li>Designed a 12-DOF quadruped robot utilizing Dynamixel actuators and Jetson.</li> <li>Implemented the trot, crawl-walking gait using semi-elliptical trajectory and inverser kinematics for a single quadruped leg on hardware using ROS.</li>",
         "duration" : "July 2022 - Aug 2022",
         "code" : "https://github.com/IvLabs/Quadruped_Robotics",
         "categaory" : "Robotics"

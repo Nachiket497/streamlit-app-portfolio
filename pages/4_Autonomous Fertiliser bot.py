@@ -29,7 +29,7 @@ st.markdown("")
 st.markdown("### Description:")
 
 
-st.markdown(" <li>Designed  ground robot with a rocker bogie mechanism to optimize fertilizer application, reducing waste by delivering nutrients directly to plant roots.</li><li>Developed small-scale farming, the compact and lightweight design ensures seamless navigation through tight spaces, offering an efficient and cost-effective solution for fertilization process.</li><li>Implemented a plantation layout following algorithum using OpenCV.</li> <li> Published research paper titled 'Design and Implementation of an Autonomous Plantation Layout Follower Fertilizer Bot for Advanced Farming' at the PCEMS Conference.  </li>", unsafe_allow_html=True)
+st.markdown(" <li>Designed ground robot with a rocker bogie mechanism to optimize fertilizer application, reducing waste by delivering nutrients directly to plant roots.</li><li>Developed small-scale farming, the compact and lightweight design ensures seamless navigation through tight spaces, offering an efficient and cost-effective solution for fertilization process.</li><li>Implemented a plantation layout following algorithm using OpenCV to navigate in field without destroying crop.</li> <li> Published research paper titled 'Design and Implementation of an Autonomous Plantation Layout Follower Fertilizer Bot for Advanced Farming' at the PCEMS Conference.  </li>", unsafe_allow_html=True)
 st.markdown("")
 
 

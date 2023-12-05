@@ -17,7 +17,7 @@ st.markdown("")
 st.markdown(f"""
     <p align="center">
     <img  width="{int(screen_width/2.5)}" src='data:image/png;base64,
-{img_to_bytes("img/adp.gif")}'>
+{img_to_bytes("img/adpoptimize.gif")}'>
     </p>""", unsafe_allow_html=True)
 
 

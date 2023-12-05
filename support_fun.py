@@ -56,7 +56,7 @@ project_dict = {
     },
 
     "Autonomus Driving Platform" : {
-        "img" : "img/adp.gif",
+        "img" : "img/adpoptimize.gif",
         "description" : "<li>Designed a platform for autonomous driving using ROS and Gazebo.</li><li>Implemented the colour detection and following using OpenCV.</li><li>Developed a PID controller for steering and speed control of the vehicle.</li>",
         "duration" : "Sep 2022",
         "code" : "",
@@ -64,7 +64,7 @@ project_dict = {
     },
 
     "Quadruped" : {
-        "img" : "img/quadurped.gif",
+        "img" : "img/quadrupedoptimize.gif",
         "description" : "<li>Designed a 12-DOF quadruped robot utilizing Dynamixel actuators and Jetson.</li> <li>Implemented the trot, crawl-walking gait using semi-elliptical trajectory and inverser kinematics for a single quadruped leg on hardware using ROS.</li>",
         "duration" : "July 2022 - Aug 2022",
         "code" : "https://github.com/IvLabs/Quadruped_Robotics",

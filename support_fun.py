@@ -21,11 +21,20 @@ def load_text(file_path):
     
 tabs_name = ['All', 'Robotics', 'Electronics/Control Systems', 'Software Development']
 
+
+
 project_dict = { 
+    "UVM_TB_GEN_Python" : {
+        "img" : "img/uvm.png",
+        "description" : "<li>Developed a Python script to automate the generation of a compile-free Universal Verification Methodology (UVM) based testbench, streamlining the setup process for complex digital designs.</li><li>Automated generation of the DUT environment (dut_env), encompassing the declaration of all requisite agents for the DUT.</li><li>Dynamic creation of agent files, seamlessly integrating components such as driver, monitor, and sequencer for each agent.</li><li>Generated base_test, interfaces and top file for integration of dut with interfaces.</li>",
+        "duration" : "Jan 2024",
+        "code" : "https://github.com/Nachiket497/uvm_tb_gen_python",
+        "categaory" : "Electronics/Control Systems"
+    },
 
     "CXL-PCIe Controller Verification" : {
         "img" : "img/cxl.png",
-        "description" : "<li>Performed verification of the 68B mode CXL Link layer and Arb Mux layer, ensuring protocol compliance and functionality.</li><li>Designed 256B mode CXL Arb Mux with a weightage round-robin module and L0p support.</li><li>Currently working on verification of the LTSSM in the PHY layer of PCIe controller.</li>",
+        "description" : "<li>Conducted thorough verification of the link layer & Arbmux in 68 Byte mode for Compute Express Link (CXL), ensuring robust functionality and adherence to specifications.</li><li> Implemented 256b Byte mode CXL Arbmux, featuring a bespoke Weighted Round Robin algorithm for efficient arbitation. Also implemented L0p ALMP negotiation feature.</li><li>Currently engaged in the validation of the Physical Layer for PCIe 6.0, focusing on the Link Training and Status State Machine (LTSSM) & MAC using Avery VIP as well as a custom UVM Testbench.</li><li>Dveloped versatile UVM Testbenchs capable of generating stimuli as APB master and APB slave as per APB5 protocol</li>",
         "duration" : "Feb 2023 - Present",
         "code" : "",
         "categaory" : "Electronics/Control Systems"

@@ -56,5 +56,6 @@ def make_skills(screen_width):
 
        
 
+    st.markdown("")
 
 

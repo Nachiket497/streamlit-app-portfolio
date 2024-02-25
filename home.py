@@ -51,6 +51,7 @@ with st.container():
 with st.container():
     make_skills(screen_width)
     st.markdown("-----")
+    st.markdown("")
 
 # ---- CONTACT ----
 with st.container():

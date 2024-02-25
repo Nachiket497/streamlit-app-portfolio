@@ -4,6 +4,8 @@ from support_fun import load_text
 def make_contact():
 
 
+    st.markdown("")
+    st.markdown("")
 
     contact_form = """
     <form action="https://formsubmit.co/1000nachiket@gmail.com" method="POST">

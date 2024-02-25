@@ -6,7 +6,7 @@ def make_intro():
     component_contact = load_text('contact.html')
     with col1:
         st.markdown("<h1 class='f60'>Nachiket Sawwalakhe</h1>", unsafe_allow_html=True)
-        st.markdown("<p class='f30'>VLSI Verification Engineer At Ceremorphic</p>", unsafe_allow_html=True)
+        st.markdown("<p class='f30'>ASIC Verification Engineer At Ceremorphic</p>", unsafe_allow_html=True)
 
         st.markdown("""<p class='f18 pad-right'> Hey there! I'm a graduate of batch 2023 from Visvesvaraya National Institute of Technology Nagpur <a href="https://vnit.ac.in/">(VNIT)</a>  with a degree in Electronics and Communication Engineering and a CGPA of 9.18/10. My academic journey has been all about dedication and staying motivated. I love diving into solo and collaborative projects, always on the lookout for chances to grow. </p> """, unsafe_allow_html=True)
 

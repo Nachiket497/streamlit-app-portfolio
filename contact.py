@@ -1,4 +1,5 @@
 import streamlit as st
+from support_fun import load_text
 
 def make_contact():
 
@@ -20,3 +21,6 @@ def make_contact():
         st.markdown("")
         st.header("Any Queries ?")
         
+        st.markdown("<p class='f18'>Feel free to contact me. I will get back to you as soon as possible. Also check me on :</p>", unsafe_allow_html=True)
+        component_contact = load_text('contact.html')
+        st.components.v1.html(component_contact, height=50) 

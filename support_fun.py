@@ -34,7 +34,7 @@ project_dict = {
 
     "CXL-PCIe Controller Verification" : {
         "img" : "img/cxl.png",
-        "description" : "<li>Conducted thorough verification of the link layer & Arbmux in 68 Byte mode for Compute Express Link (CXL), ensuring robust functionality and adherence to specifications.</li><li> Implemented 256b Byte mode CXL Arbmux, featuring a bespoke Weighted Round Robin algorithm for efficient arbitation. Also implemented L0p ALMP negotiation feature.</li><li>Currently engaged in the validation of the Physical Layer for PCIe 6.0, focusing on the Link Training and Status State Machine (LTSSM) & MAC using Avery VIP as well as a custom UVM Testbench.</li><li>Dveloped versatile UVM Testbenchs capable of generating stimuli as APB master and APB slave as per APB5 protocol</li>",
+        "description" : "<li>Conducted thorough verification of the link layer & Arbmux in 68 Byte mode for Compute Express Link (CXL), ensuring robust functionality and adherence to specifications.</li><li> Implemented 256b Byte mode CXL Arbmux, featuring a bespoke Weighted Round Robin algorithm for efficient arbitation. Also implemented L0p ALMP negotiation feature.</li><li>Currently engaged in the validation of the Physical Layer for PCIe 6.0, focusing on the Link Training and Status State Machine (LTSSM) & MAC using Avery VIP as well as a custom UVM Testbench.</li><li>Dveloped versatile UVM Testbenchs capable of generating stimuli as APB master and APB slave as per APB5 protocol.</li>",
         "duration" : "Feb 2023 - Present",
         "code" : "",
         "categaory" : "Electronics/Control Systems"

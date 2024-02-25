@@ -6,6 +6,7 @@ from edu import make_edu
 from exp import make_exp
 from project import make_project
 from contact import make_contact
+from skills import make_skills
 from streamlit_js_eval import streamlit_js_eval
 
 st.set_page_config(page_title="Nachiket-Portfolio", page_icon="img/N.png", layout="wide", initial_sidebar_state="collapsed" )
@@ -46,7 +47,11 @@ if screen_width is None:
 with st.container():
     make_project(screen_width)
     st.markdown("-----")
-     
+    
+with st.container():
+    make_skills(screen_width)
+    st.markdown("-----")
+
 # ---- CONTACT ----
 with st.container():
     make_contact()

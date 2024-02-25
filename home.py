@@ -43,14 +43,15 @@ if screen_width is None:
     screen_width = 1100
     print("screen_width is None")
 
+with st.container():
+    make_skills(screen_width)
+    st.markdown("-----")
 
 with st.container():
     make_project(screen_width)
     st.markdown("-----")
     
-with st.container():
-    make_skills(screen_width)
-    st.markdown("-----")
+
     st.markdown("")
 
 # ---- CONTACT ----

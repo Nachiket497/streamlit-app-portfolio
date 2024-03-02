@@ -173,7 +173,7 @@ project_dict = {
 
 job_dict = {
     "job1": {
-        "Job_title": "VLSI Verification Engineer",
+        "Job_title": "ASIC Verification Engineer",
         "Job_role": "Full Time & Internship",
         "Job_place": "Ceremorphic, Inc.",
         "Job_date": "Feb 2023 - Present"

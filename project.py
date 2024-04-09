@@ -12,7 +12,7 @@ def make_card(img_path, title, code, tab, col):
         with col :
             ip = f"""
                   
-                <div class="card" onclick="window.open('{code}', '_blank')" style="width: 98%; height : 98%; border : 1px solid black; text-align:center; box-shadow: 4px 4px 8px 0px rgba(0, 0, 0, 0.2), 6px 6px 20px 0px rgba(0, 0, 0, 0.19);" >
+                <div class="card" " style="width: 98%; height : 98%; border : 1px solid black; text-align:center; box-shadow: 4px 4px 8px 0px rgba(0, 0, 0, 0.2), 6px 6px 20px 0px rgba(0, 0, 0, 0.19);" >
                     <img src='data:image/png;base64,{img_to_bytes(img_path)}' alt="Avatar" style="width: 80%; padding: 5% 5% 5% 5%;  border-radius: 5px;">
                     <h4 id="demo" ><b>{title}</b></h4>
                     <div style="padding: 0% 0% 4% 0%;">

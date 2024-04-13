@@ -10,10 +10,10 @@ def make_intro():
 
         st.markdown("""<p class='f18 pad-right'> Hey there! I'm a graduate of batch 2023 from Visvesvaraya National Institute of Technology Nagpur <a href="https://vnit.ac.in/">(VNIT)</a>  with a degree in Electronics and Communication Engineering and a CGPA of 9.18/10. My academic journey has been all about dedication and staying motivated. I love diving into solo and collaborative projects, always on the lookout for chances to grow. </p> """, unsafe_allow_html=True)
 
-        st.markdown(""" <p class='f18 pad-right'> Being a core member of IvLabs, the robotics and AI community at VNIT, has been an exciting ride. I've been deep into researching algorithms for robot manipulation and locomotion in complex environments. Now, with a solid foundation I am eager to apply these skills to real-world challenges in the dynamic fields of electronics and robotics. </p>""", unsafe_allow_html=True)
+        st.markdown(""" <p class='f18 pad-right'> Being a part of Ceremorphic, has been an exhilarating journey. I've been deeply immersed in UVM-based design verification of PCIe 6.0 and CXL 3.0 controllers, ensuring their robust functionality and compliance. Additionally, my experience in scripting with Python has allowed me to automate tasks, streamline processes, and enhance efficiency in verification workflows. </p>""", unsafe_allow_html=True)
 
 
-        st.markdown(""" <p class='f18 pad-right'> Join me on this journey of turning ideas into action and tackling the cool stuff in electronics and robotics! </p> """, unsafe_allow_html=True)
+        st.markdown(""" <p class='f18 pad-right'> Now, armed with a solid foundation in ASIC design verification and scripting, I am eager to tackle real-world challenges in these dynamic fields. Let's collaborate to drive innovation and achieve excellence in ASIC design verification.</p> """, unsafe_allow_html=True)
 
         st.components.v1.html(component_contact, height=50)
 
